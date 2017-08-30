@@ -1,0 +1,23 @@
+1. Lagayan ng CPU/Case						- Finished
+2. Ilalagay yun MotherBoard panel Ung bakal			- Finished
+3. Ung powersupply						- Finished
+3.1 ung oopen lahat ng lock ng processor			- Finished
+3.2 ung oopen nmn ung sa memory at video card..			- Not Yet
+4. Ung processor ilalagay sa motherboard			- Finished
+5. Ung fan ng processor						- Finished
+6. Ung ram							
+7. Motherboard ilalagay sa case
+8. Ilalagay ung video card
+9. Ilalagay ung takip dun sa likod
+10. Hard disk
+11. Optical Disk Drive
+12. Connection ng PowerSupply
+12.1 Ung power pala ung may yelow and black
+12.2 Ung malapad na atx
+12.3 power ng HDD
+12.4 power ng odd
+13	Sata cables
+14 	System panel 
+15 USB and audio
+16 back cover case
+17 Front cover case with fan
